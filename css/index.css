@@ -1,0 +1,15 @@
+.imagen-card{
+    width: 100%;
+}
+
+.card-text{
+    padding: 8px;
+    justify-content: center;
+}
+.btn-lila{
+    background-color: rgb(210, 115, 253);
+}
+
+.card-header{
+    background-color: rgb(209, 242, 250) !important;
+}

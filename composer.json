@@ -1,0 +1,11 @@
+{
+    "name": "gustavo/fly",
+    "description": "Customizer",
+    "authors": [
+        {
+            "name": "gustavo",
+            "email": "gustavodevaler@gmail.com"
+        }
+    ],
+    "require": {}
+}
